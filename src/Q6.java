@@ -7,7 +7,7 @@ public class Q6 {//WIP
         int trigger = (numRows - 1) * 2;
         for (int i = 0; i < s.length(); i += trigger) {
             temp += s.charAt(i);
-            if (trigger==0){
+            if (trigger == 0) {
                 break;
             }
         }
@@ -21,10 +21,15 @@ public class Q6 {//WIP
         int cycle = (numRows - 1)*2;
         String temp = "";
         for (int i = 0; i<numRows; i++){
-
+            for (int j = 0; (j+i)<len; j++){
+                temp += s.charAt(i+j);
+                if (i != 0 && i != numRows - 1 && j + cycle - i < len){
+                    temp += s.charAt(j + cycle - i);
+                }
+            }
         }
 
-
+        return temp;
     }
 
 }
