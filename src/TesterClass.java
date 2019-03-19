@@ -1,7 +1,7 @@
 
 public class TesterClass {
     public static void main(String args[]){
-        Q9 test = new Q9();
-        System.out.println(test.isPalindrome(12321));
+        Q20 test = new Q20();
+        System.out.println(test.isValid("()"));
     }
 }
