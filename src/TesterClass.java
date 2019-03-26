@@ -1,7 +1,7 @@
 
 public class TesterClass {
     public static void main(String args[]){
-        Q20 test = new Q20();
-        System.out.println(test.isValid("()()"));
+        Q35 test = new Q35();
+        System.out.println(test.searchInsert(new int[]{1,2,3,4}, 3));
     }
 }
