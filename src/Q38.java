@@ -4,6 +4,7 @@ public class Q38 {
         if (n==1){
             return "1";
         }
+        StringBuffer b = new StringBuffer();
         String temp = countAndSay(--n);
         for (int i=0; i<temp.length();i++){
             count=1;
@@ -12,8 +13,9 @@ public class Q38 {
                 count++;
                 i++;
             }
-            temp += count+""+add;
+            b.append(count+""+add);
+
         }
-        return temp;
+        return b.toString();
     }
 }
