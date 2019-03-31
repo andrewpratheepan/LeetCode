@@ -1,9 +1,7 @@
 
 public class TesterClass {
     public static void main(String args[]){
-        Q66 test = new Q66();
-        int [] o = {9,9};
-        test.plusOne(o);
-        System.out.println();
+        Q67 test = new Q67();
+        System.out.println(test.addBinary("10","100"));
     }
 }

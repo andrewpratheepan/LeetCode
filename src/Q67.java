@@ -1,5 +1,10 @@
+import java.math.BigInteger;
+
 public class Q67 {
     public String addBinary(String a, String b) {
-        return "0";
+        BigInteger num1 = new BigInteger(a,2);
+        BigInteger num2 = new BigInteger(b,2);
+        BigInteger sum = num1.add(num2);
+        return sum.toString(2);
     }
 }
