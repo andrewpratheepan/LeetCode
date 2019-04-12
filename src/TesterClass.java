@@ -3,10 +3,9 @@ import supportingFiles.TreeNode;
 
 public class TesterClass {
     public static void main(String args[]){
-        Q104 test = new Q104();
+        Q111 test = new Q111();
         TreeNode root = new TreeNode(1);
         root.right = new TreeNode(2);
-        root.right.left = new TreeNode(3);
-        System.out.println(test.maxDepth(root));
+        System.out.println(test.minDepth(root));
     }
 }
