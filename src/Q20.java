@@ -4,33 +4,27 @@ import java.util.*;
 
 public class Q20 {
     public boolean isValid(String s) {
-        if (s.length()==0 || s == null){
-            return true;
-        }
-        Map map = new HashMap<String,String>();
-        map.put("[","]");
-        map.put("{","}");
-        map.put("(",")");
-        List list = new ArrayList();
-        list.add("[");
-        list.add("{");
-        list.add("(");
-        Stack stack = new Stack<String>();
-        StringBuffer buffer = new StringBuffer(s);
-        for (int i = 0; i< s.length(); i++){
-            if (list.indexOf(buffer.substring(i,i+1)) != -1){
-                stack.push(buffer.substring(i,i+1));
+        Stack<Character> check = new Stack<>();
+        if(s.length()==1) return false;
+        if(s=="") return true;
+
+        for(int i=0;i<s.length();i++){
+            char at = s.charAt(i);
+            if(at=='('||at=='['||at=='{'){
+                check.push(at);
+                continue;
             }
-            else if (!stack.isEmpty()){
-                if (buffer.substring(i,i+1).equals(map.get(stack.peek()))){
-                    stack.pop();
-                }
-                else{
+            if(!check.isEmpty()){
+                char m = check.pop();
+                if(!(m=='('&&at==')'||m=='['&&at==']'||m=='{'&&at=='}'))
                     return false;
-                }
+            }
+            else{
+                if(at==')'||at==']'||at=='}')
+                    return false;
             }
         }
-        return stack.empty();
+        return check.isEmpty();
     }
 
 }
