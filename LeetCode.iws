@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d306f35b-de78-46b2-9c45-b09aad66798a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LeetCode.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Q20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterClass.java" afterDir="false" />
     </list>
     <list id="d55e4940-5bf0-4166-be46-d813f4f58fba" name="Q100" comment="" />
     <list id="66f97c45-3781-4322-bd56-1e6ee86f063f" name="Q8" comment="Q8">
@@ -40,13 +40,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8706" />
+          <entry key="java" value="8770" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8706" />
+          <entry key="JAVA" value="8770" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -78,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Q20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="268">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="32" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -203,7 +203,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555258298624" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555471285834" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -654,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="268">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

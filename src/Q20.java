@@ -22,10 +22,15 @@ public class Q20 {
                 stack.push(buffer.substring(i,i+1));
             }
             else if (!stack.isEmpty()){
-
+                if (buffer.substring(i,i+1).equals(map.get(stack.peek()))){
+                    stack.pop();
+                }
+                else{
+                    return false;
+                }
             }
         }
-        return false;
+        return stack.empty();
     }
 
 }
