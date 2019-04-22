@@ -8,10 +8,7 @@ public class Q112 {
         if (root == null) return false;
         if (root.left!=null) itt(root.left,root.val);
         if (root.right!=null) itt(root.right,root.val);
-        if (listSums.indexOf(new Integer(sum))!=-1){
-            return true;
-        }
-        return false;
+        return listSums.indexOf(new Integer(sum)) != -1;
     }
     public void itt(TreeNode node, int sum){
         if (node == null){
