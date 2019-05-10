@@ -5,7 +5,10 @@ import java.util.List;
 
 public class TesterClass {
     public static void main(String args[]){
-        Q118 test = new Q118();
-        List list = test.generate(5);
+        Q204 test = new Q204();
+
+        System.out.println(test.countPrimes(10));
+
+
     }
 }
