@@ -5,9 +5,9 @@ import java.util.List;
 
 public class TesterClass {
     public static void main(String args[]){
-        Q204 test = new Q204();
+        Q231 test = new Q231();
 
-        System.out.println(test.countPrimes(10));
+        System.out.println(test.isPowerOfTwo(536870912));
 
 
     }

@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d306f35b-de78-46b2-9c45-b09aad66798a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q235.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q204.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q204.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q67.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TesterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TesterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterClass.java" afterDir="false" />
     </list>
     <list id="d55e4940-5bf0-4166-be46-d813f4f58fba" name="Q100" comment="" />
     <list id="66f97c45-3781-4322-bd56-1e6ee86f063f" name="Q8" comment="Q8">
@@ -31,25 +36,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iws" value="1" />
-          <entry key="java" value="88" />
+          <entry key="java" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_WORKSPACE" value="1" />
-          <entry key="JAVA" value="86" />
-          <entry key="Scratch" value="2" />
+          <entry key="JAVA" value="91" />
+          <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13847" />
+          <entry key="java" value="14650" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13847" />
+          <entry key="JAVA" value="14650" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -71,6 +76,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q235.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -104,11 +130,51 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q226.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q231.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q232.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q234.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,10 +211,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q21.java" />
-        <option value="$PROJECT_DIR$/src/Q26.java" />
-        <option value="$PROJECT_DIR$/src/Q27.java" />
-        <option value="$PROJECT_DIR$/src/Q28.java" />
         <option value="$PROJECT_DIR$/src/Q35.java" />
         <option value="$PROJECT_DIR$/src/Q38.java" />
         <option value="$PROJECT_DIR$/src/Q53.java" />
@@ -188,7 +250,6 @@
         <option value="$PROJECT_DIR$/src/Q198.java" />
         <option value="$PROJECT_DIR$/src/Q202.java" />
         <option value="$PROJECT_DIR$/src/Q203.java" />
-        <option value="$PROJECT_DIR$/src/TesterClass.java" />
         <option value="$PROJECT_DIR$/src/Q204.java" />
         <option value="$PROJECT_DIR$/src/Q205.java" />
         <option value="$PROJECT_DIR$/src/Q206.java" />
@@ -196,6 +257,11 @@
         <option value="$PROJECT_DIR$/src/Q219.java" />
         <option value="$PROJECT_DIR$/src/Q225.java" />
         <option value="$PROJECT_DIR$/src/Q226.java" />
+        <option value="$PROJECT_DIR$/src/TesterClass.java" />
+        <option value="$PROJECT_DIR$/src/Q231.java" />
+        <option value="$PROJECT_DIR$/src/Q232.java" />
+        <option value="$PROJECT_DIR$/src/Q234.java" />
+        <option value="$PROJECT_DIR$/src/Q235.java" />
       </list>
     </option>
   </component>
@@ -241,7 +307,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557750058165" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558108860240" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -322,9 +388,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1400" height="786" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.27466863" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.27466863" />
       <window_info id="Structure" order="1" sideWeight="0.5032258" side_tool="true" weight="0.26730487" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,9 +403,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" weight="0.3299712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" visible="true" weight="0.3299712" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5022091" side_tool="true" weight="0.3299712" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779087" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779087" weight="0.3299712" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -422,34 +487,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Q53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q58.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q69.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q70.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -671,7 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     <entry file="file://$PROJECT_DIR$/src/Q190.java" />
     <entry file="file://$PROJECT_DIR$/LeetCode.iws">
       <provider selected="true" editor-type-id="text-editor" />
@@ -712,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q204.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -737,13 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -772,10 +794,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q217.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q226.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q231.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q235.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
