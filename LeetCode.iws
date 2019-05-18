@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d306f35b-de78-46b2-9c45-b09aad66798a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q237.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q204.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q204.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q67.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TesterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TesterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q235.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterClass.java" afterDir="false" />
     </list>
     <list id="d55e4940-5bf0-4166-be46-d813f4f58fba" name="Q100" comment="" />
@@ -36,25 +33,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iws" value="1" />
-          <entry key="java" value="94" />
+          <entry key="java" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_WORKSPACE" value="1" />
-          <entry key="JAVA" value="91" />
+          <entry key="JAVA" value="92" />
           <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14650" />
+          <entry key="java" value="14878" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14650" />
+          <entry key="JAVA" value="14878" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -71,20 +68,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q217.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q235.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q237.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -211,7 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q35.java" />
         <option value="$PROJECT_DIR$/src/Q38.java" />
         <option value="$PROJECT_DIR$/src/Q53.java" />
         <option value="$PROJECT_DIR$/src/Q58.java" />
@@ -257,11 +244,12 @@
         <option value="$PROJECT_DIR$/src/Q219.java" />
         <option value="$PROJECT_DIR$/src/Q225.java" />
         <option value="$PROJECT_DIR$/src/Q226.java" />
-        <option value="$PROJECT_DIR$/src/TesterClass.java" />
         <option value="$PROJECT_DIR$/src/Q231.java" />
         <option value="$PROJECT_DIR$/src/Q232.java" />
         <option value="$PROJECT_DIR$/src/Q234.java" />
         <option value="$PROJECT_DIR$/src/Q235.java" />
+        <option value="$PROJECT_DIR$/src/Q237.java" />
+        <option value="$PROJECT_DIR$/src/TesterClass.java" />
       </list>
     </option>
   </component>
@@ -307,7 +295,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558108860240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558201404154" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -399,11 +387,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299712" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299712" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" weight="0.3299712" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5022091" side_tool="true" weight="0.3299712" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779087" weight="0.3299712" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3299712" />
@@ -474,6 +462,12 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q237.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -487,13 +481,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Q70.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q83.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -849,20 +836,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
+    <entry file="file://$PROJECT_DIR$/src/Q235.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q235.java">
+    <entry file="file://$PROJECT_DIR$/src/Q237.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
