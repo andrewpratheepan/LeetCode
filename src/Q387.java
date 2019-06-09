@@ -5,7 +5,6 @@ public class Q387 {
             charArray[temp] += 1;
         }
         for (int i = 0; i<s.length(); i++){
-            System.out.println(charArray[s.charAt(i)]);
             if (charArray[s.charAt(i)]==1){
                 return i;
             }
