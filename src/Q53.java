@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class Q53 {
     public int maxSubArray(int[] nums) {
@@ -11,5 +12,14 @@ public class Q53 {
             maxSum = Math.max(maxSum, prevSum);
         }
         return maxSum;
+    }
+    static String findNumber(List<Integer> arr, int k) {
+        for (int temp:arr){
+            if (k == temp){
+                return "YES";
+            }
+        }
+        return "NO";
+
     }
 }

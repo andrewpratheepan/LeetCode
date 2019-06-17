@@ -5,12 +5,9 @@ import java.util.List;
 
 public class TesterClass {
     public static void main(String args[]){
-        Q237 test = new Q237();
-        ListNode q = new ListNode(0);
-        q.next = new ListNode(1);
-        q.next.next = new ListNode(2);
-        test.deleteNode(q);
-
+    Q412 test = new Q412();
+    int[] o = new int[]{2, 2, 3, 1};
+    System.out.print(test.fizzBuzz(15));
 
     }
 }
