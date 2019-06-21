@@ -1,3 +1,5 @@
+import java.util.concurrent.Semaphore;
+
 public class Q485 {
     public int findMaxConsecutiveOnes(int[] nums) {
         int previousMax = 0;
@@ -11,6 +13,8 @@ public class Q485 {
                 max = 0;
             }
         }
+
         return previousMax>max ? previousMax:max;
+
     }
 }
