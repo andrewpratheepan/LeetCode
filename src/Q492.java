@@ -10,6 +10,6 @@ public class Q492 {
         }
         array[0] = (area/itt) > itt ? area/itt:itt;
         array[1] = (area/itt) < itt ? area/itt:itt;
-        return array;
+        return array; 
     }
 }

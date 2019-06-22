@@ -5,9 +5,10 @@ import java.util.List;
 
 public class TesterClass {
     public static void main(String args[]){
-    Q485 test = new Q485();
-    int[] o = new int[]{1,0,1,1,0,1};
-    System.out.print(test.findMaxConsecutiveOnes(o));
+    Q496 test = new Q496();
+    int[] o = new int[]{4,1,2};
+    int[] i = new int[]{1,3,4,2};
+    System.out.print(test.nextGreaterElement(o,i));
 
     }
 }
