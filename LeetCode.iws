@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d306f35b-de78-46b2-9c45-b09aad66798a" name="Default Changelist" comment="Q8">
-      <change afterPath="$PROJECT_DIR$/src/Q559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q575.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iws" afterDir="false" />
     </list>
     <list id="d55e4940-5bf0-4166-be46-d813f4f58fba" name="Q100" comment="" />
@@ -33,7 +33,7 @@
           <entry key="gradle" value="1" />
           <entry key="iml" value="1" />
           <entry key="iws" value="1" />
-          <entry key="java" value="161" />
+          <entry key="java" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -41,21 +41,21 @@
           <entry key="Groovy" value="1" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="IDEA_WORKSPACE" value="1" />
-          <entry key="JAVA" value="157" />
+          <entry key="JAVA" value="158" />
           <entry key="Scratch" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gradle" value="65" />
-          <entry key="java" value="28382" />
+          <entry key="java" value="28508" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="65" />
-          <entry key="JAVA" value="28382" />
+          <entry key="JAVA" value="28508" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -84,11 +84,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q559.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q575.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Q242.java" />
         <option value="$PROJECT_DIR$/src/Q257.java" />
         <option value="$PROJECT_DIR$/src/Q258.java" />
         <option value="$PROJECT_DIR$/src/Q263.java" />
@@ -213,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/Q520.java" />
         <option value="$PROJECT_DIR$/src/Q557.java" />
         <option value="$PROJECT_DIR$/src/Q559.java" />
+        <option value="$PROJECT_DIR$/src/Q575.java" />
       </list>
     </option>
   </component>
@@ -273,7 +285,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562239617246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562326253929" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -392,9 +404,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" weight="0.26080692" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992636" visible="true" weight="0.26080692" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50073636" side_tool="true" weight="0.3299712" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779087" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49779087" weight="0.3299712" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4963181" weight="0.3299712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496318" />
@@ -546,13 +558,6 @@ ObjectInputStream input =  new ObjectInputStream(bytes);</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Q258.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q263.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -961,8 +966,18 @@ ObjectInputStream input =  new ObjectInputStream(bytes);</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q559.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q575.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
