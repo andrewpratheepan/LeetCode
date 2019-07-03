@@ -5,11 +5,11 @@ import java.util.List;
 
 public class TesterClass {
     public static void main(String args[]){
-    Q509 test = new Q509();
+    Q581 test = new Q581();
     int[] o = new int[]{4,1,2};
-    int[] i = new int[]{10,3,8,9,4};
+    int[] i = new int[]{2,6,4,8,10,9,15};
 
-    System.out.print(test.fib(3));
+    System.out.print(test.findUnsortedSubarray(i));
 
     }
 }
